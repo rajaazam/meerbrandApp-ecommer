@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128477997630",
+    "project_id": "meer-brand-388b2",
+    "storage_bucket": "meer-brand-388b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128477997630:android:cf0347cec2e11b9061bf6f",
+        "android_client_info": {
+          "package_name": "com.example.meerbrand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128477997630-epu7moin4js51jiv67bofn7pks087giv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEYSncpdOgUE9rCP5rRX5SJZCaGN-Zn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128477997630-epu7moin4js51jiv67bofn7pks087giv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
